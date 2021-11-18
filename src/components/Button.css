@@ -1,0 +1,8 @@
+.btn-container {
+  background: #fafafa;
+  padding: 16px 50px;
+  font-size: 18px;
+  border: none;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.103), 0 10px 10px rgba(0, 0, 0, 0.11);
+  cursor: pointer;
+}
